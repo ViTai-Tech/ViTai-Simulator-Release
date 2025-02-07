@@ -1,0 +1,9 @@
+build/
+release/
+.idea/
+.vscode/
+.git/
+.DS_Store
+stubs/
+dist
+__pycache__/
